@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Breakpoint Resume</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="urlhint">输入下载链接</string>
+    <string name="downcomplete">下载完成</string>
+    <string name="nosdcard">没找到存储卡...</string>
+    <string name="error">出错了...</string>
+    <string name="down">开始下载</string>
+
+</resources>
